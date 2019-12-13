@@ -1,0 +1,244 @@
+{
+  "author_info": {
+    "Price_et_al": {
+      "n": 89
+    },
+    "RefSeq": {
+      "n": 704
+    }
+  },
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "Australia",
+          "#E4E1E3"
+        ],
+        [
+          "Austria",
+          "#F6222E"
+        ],
+        [
+          "Belgium",
+          "#FE00FA"
+        ],
+        [
+          "Brazil",
+          "#16FF32"
+        ],
+        [
+          "Canada",
+          "#3283FE"
+        ],
+        [
+          "China",
+          "#FEAF16"
+        ],
+        [
+          "Denmark",
+          "#B00068"
+        ],
+        [
+          "Dominica",
+          "#1CFFCE"
+        ],
+        [
+          "France",
+          "#90AD1C"
+        ],
+        [
+          "Germany",
+          "#2ED9FF"
+        ],
+        [
+          "Hong_Kong",
+          "#DEA0FD"
+        ],
+        [
+          "Italy",
+          "#F8A19F"
+        ],
+        [
+          "Netherlands",
+          "#C4451C"
+        ],
+        [
+          "South_Korea",
+          "#85660D"
+        ],
+        [
+          "Spain",
+          "#B10DA1"
+        ],
+        [
+          "Switzerland",
+          "#FBE426"
+        ],
+        [
+          "Trinidad_and_Tobago",
+          "#FA0087"
+        ],
+        [
+          "United_States",
+          "#F7E1A0"
+        ],
+        [
+          "French_Guiana",
+          "#C075A6"
+        ],
+        [
+          "Peru",
+          "#782AB6"
+        ],
+        [
+          "Poland",
+          "#AAF400"
+        ],
+        [
+          "Slovenia",
+          "#BDCDFF"
+        ],
+        [
+          "Finland",
+          "#822E1C"
+        ],
+        [
+          "Hungary",
+          "#B5EFB5"
+        ],
+        [
+          "Portugal",
+          "#7ED7D1"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "Country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    }
+  },
+  "filters": [
+    "country"
+  ],
+  "geo": {
+    "country": {
+      "Australia": {
+        "latitude": -25.274398,
+        "longitude": 133.775136
+      },
+      "Austria": {
+        "latitude": 47.516231,
+        "longitude": 14.550072
+      },
+      "Belgium": {
+        "latitude": 50.503887,
+        "longitude": 4.469936
+      },
+      "Brazil": {
+        "latitude": -14.235004,
+        "longitude": -51.92528
+      },
+      "Canada": {
+        "latitude": 56.130366,
+        "longitude": -106.346771
+      },
+      "China": {
+        "latitude": 35.86166,
+        "longitude": 104.195397
+      },
+      "Denmark": {
+        "latitude": 56.26392,
+        "longitude": 9.501785
+      },
+      "Dominica": {
+        "latitude": 15.414999,
+        "longitude": -61.370976
+      },
+      "Finland": {
+        "latitude": 63.2467777,
+        "longitude": 25.9209164
+      },
+      "France": {
+        "latitude": 46.227638,
+        "longitude": 2.213749
+      },
+      "French_Guiana": {
+        "latitude": 4.93333,
+        "longitude": -52.33333
+      },
+      "Germany": {
+        "latitude": 51.165691,
+        "longitude": 10.451526
+      },
+      "Hong_Kong": {
+        "latitude": 22.396428,
+        "longitude": 114.109497
+      },
+      "Hungary": {
+        "latitude": 47.0,
+        "longitude": 20.0
+      },
+      "Italy": {
+        "latitude": 41.87194,
+        "longitude": 12.56738
+      },
+      "Netherlands": {
+        "latitude": 52.132633,
+        "longitude": 5.291266
+      },
+      "Peru": {
+        "latitude": -10.0,
+        "longitude": -75.25
+      },
+      "Poland": {
+        "latitude": 52.0977181,
+        "longitude": 19.0258159
+      },
+      "Portugal": {
+        "latitude": 39.6945,
+        "longitude": -8.13057
+      },
+      "Slovenia": {
+        "latitude": 45.8133113,
+        "longitude": 14.4808369
+      },
+      "South_Korea": {
+        "latitude": 35.907757,
+        "longitude": 127.766922
+      },
+      "Spain": {
+        "latitude": 40.463667,
+        "longitude": -3.74922
+      },
+      "Switzerland": {
+        "latitude": 46.818188,
+        "longitude": 8.227512
+      },
+      "Trinidad_and_Tobago": {
+        "latitude": 10.691803,
+        "longitude": -61.222503
+      },
+      "United_States": {
+        "latitude": 37.09024,
+        "longitude": -95.712891
+      }
+    }
+  },
+  "maintainer": [
+    "Raphael N. Sieber, Statens Serum Institut, Denmark",
+    "mailto:rasi@ssi.dk"
+  ],
+  "panels": [
+    "tree",
+    "map"
+  ],
+  "title": "CC398 global phylogeny",
+  "updated": "12 Dec 2019",
+  "virus_count": 662
+}
